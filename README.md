@@ -12,3 +12,5 @@ The point of this program is sorting file for expansions and simplify file handl
 
 
 Below is Python file (SeenFiles.py) for developers which want improve my program.
+
+жертвовать-Payeer P1024470182
