@@ -2,7 +2,7 @@
 My first soft for easy using computer and folders.
 
 For use this program need:
-1) Download files from repository convenient way for you (Files or .zip);
+1) Download files from repository convenient way for you (Files or archive - SeenFiles.zip);
 2) Open application with .exe (SeenFiles.exe), and wait when will appear text "Select name of directory: ";
 3) After that you should input full path to folder which you want scanning;
 4) Now you need waiting until the program closes.
