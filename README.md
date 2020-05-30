@@ -1,2 +1,4 @@
 # SeenFiles
-First soft for easy using computer and folders.
+My first soft for easy using computer and folders.
+
+
